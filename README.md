@@ -1,6 +1,5 @@
-# ShriGaneshji create using python
+# ShriGaneshji create using python try by your self.
 
-## Introduction
 
 This project is a simple Python script that creates an ASCII art representation of Lord Ganeshji. The script uses ASCII characters to form an image that resembles the deity.
 
